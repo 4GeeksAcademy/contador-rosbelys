@@ -9,3 +9,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+    
+.contador-timer {
+    background-color: black;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 1rem ;
+}
+
+.unidad{
+    color: white;
+    font-size: 40px;
+    border: 1px solid grey;
+    margin: 0 30px;
+}
